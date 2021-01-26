@@ -47,6 +47,10 @@ Para poder generar la Documentación del laboratorio es necesario escribir el si
 ```
 mvn javadoc:javadoc
 ```
+Para poder abrir los archivos de la Documentacion javadoc, es necesario ir al directorio del proyecto:
+```
+LABORATORIO1\target\site\apidocs
+```
 
 ## DESARROLO
 
