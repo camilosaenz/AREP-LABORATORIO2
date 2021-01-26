@@ -1,7 +1,7 @@
 package edu.escuelaing.arep.app;
 
 /**
- * Hello world!
+ * Esta Clase es la clase prinsipal y es la escargada de ejecutar todo el proceso.
  *
  */
 public class App {
@@ -17,8 +17,8 @@ public class App {
     	lista = file.leerValores(archivo);
 		double media = Calculadora.media(lista);
 	    double desviacionEstandar = Calculadora.desviacionEstandar(lista);
-	    System.out.print("La Media de la LinkedList es: " + media + "\n");
-	    System.out.print("La Desviacion Estandar de la LinkedList es: " + desviacionEstandar);
+	    System.out.println("La Media de la LinkedList es: " + media);
+	    System.out.println("La Desviacion Estandar de la LinkedList es: " + desviacionEstandar);
     }
 
 }
