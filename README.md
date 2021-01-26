@@ -34,7 +34,7 @@ Para poder compilar las pruebas tenemos 2 opciones;
 mvn test
 ```
 
-![Test] (https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/Test.PNG?raw=true)
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/Test.PNG?raw=true">
 
 
 2. Y la otra opcion es desde la plataforma de codigo utilizada para abrir el laboratorio y desde allí ejecutar las pruebas utilizando JUnit.
@@ -51,10 +51,21 @@ Para poder generar la Documentación del laboratorio es necesario escribir el si
 ```
 mvn javadoc:javadoc
 ```
+Se puede observar la ejecución del comando:
+
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/javadoc_comand.PNG?raw=true">
+
 Para poder abrir los archivos de la Documentacion javadoc, es necesario ir al directorio del proyecto:
 ```
 LABORATORIO1\target\site\apidocs
 ```
+El directorio debere contener los siguientes archivos:
+
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/directorioJavadoc.PNG?raw=true">
+
+luego de ejecutar el comando y verificar el directorio, podemos abrir los diferentes archivos, tales como "allclasses-index.html"
+
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/javadoc.PNG?raw=true">
 
 ## DESARROLO
 
