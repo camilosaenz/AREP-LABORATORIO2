@@ -33,6 +33,10 @@ Para poder compilar las pruebas tenemos 2 opciones;
 ```
 mvn test
 ```
+
+![Test] (https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/Test.PNG?raw=true)
+
+
 2. Y la otra opcion es desde la plataforma de codigo utilizada para abrir el laboratorio y desde allí ejecutar las pruebas utilizando JUnit.
 
 Las pruebas que encontraran en este laboratorio son las siguientes:
