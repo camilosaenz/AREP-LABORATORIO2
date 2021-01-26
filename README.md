@@ -62,4 +62,4 @@ Este laboratorio fue construido con las siguiente herramientas:
 ## DERECHOS DE AUTOR
 
 Programa desarrollado por:
-* [RUBIAN CAMILO SAENZ RODRIGUEZ](https://github.com/camilosaenz)
+[RUBIAN CAMILO SAENZ RODRIGUEZ](https://github.com/camilosaenz)
