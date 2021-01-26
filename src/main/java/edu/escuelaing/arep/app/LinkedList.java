@@ -2,6 +2,11 @@ package edu.escuelaing.arep.app;
 
 import java.util.function.Function;
 
+/**
+ * Esta clase es la encargada de crear, recorrer y realizar las funciones de la LinkedList.
+ * @author Camilo
+ *
+ */
 public class LinkedList {
 	
 	private Nodo nodoInicial;

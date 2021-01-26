@@ -3,6 +3,11 @@ package edu.escuelaing.arep.app;
 import java.io.BufferedReader;
 import java.io.FileReader;
 
+/**
+ * Esta clase es la encargada de leer un archivo .txt y luego almacenar los datos que este contiene en una LinkedList.
+ * @author Camilo
+ *
+ */
 public class LectorArchivo {
 
 	/**

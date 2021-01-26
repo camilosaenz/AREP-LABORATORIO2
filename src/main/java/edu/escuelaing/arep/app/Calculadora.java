@@ -1,5 +1,10 @@
 package edu.escuelaing.arep.app;
 
+/**
+ * Esta clase es la encargada de realizar las operaciones indicadas, en este caso la Media y la Desviacion Estandar
+ * @author Camilo
+ *
+ */
 public class Calculadora {
 	
 	/**
