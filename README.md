@@ -36,8 +36,9 @@ mvn test
 
 <img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/Test.PNG?raw=true">
 
+2. Y la otra opcion es desde la plataforma de codigo utilizada para abrir el laboratorio en mi caso Eclipse y desde allí ejecutar las pruebas utilizando JUnit.
 
-2. Y la otra opcion es desde la plataforma de codigo utilizada para abrir el laboratorio y desde allí ejecutar las pruebas utilizando JUnit.
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/junit.PNG?raw=true">
 
 Las pruebas que encontraran en este laboratorio son las siguientes:
 * **TestCase1** - Esta prueba abre el archivo testCase1.txt y lo ejecuta.
@@ -73,6 +74,7 @@ Este laboratorio fue construido con las siguiente herramientas:
 * [Maven](https://maven.apache.org/)
 * [Java](https://www.java.com/es/)
 * [GIT](https://git-scm.com/)
+* [Eclipse](https://www.eclipse.org/)
 
 ## LICENCIA
 
