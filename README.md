@@ -76,6 +76,10 @@ Este laboratorio fue construido con las siguiente herramientas:
 * [GIT](https://git-scm.com/)
 * [Eclipse](https://www.eclipse.org/)
 
+## LATEX
+
+Este proyecto cuenta con un [archivo](https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/AREP%20-%20LABORATORIO1.pdf) realizado completamente utilizando LaTeX por medio de la aplicacion [Overleaf](https://www.overleaf.com/project) y ademas cuenta con el [Proyecto.zip](https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/AREP%20-%20LABORATORIO1%20-%20LATEX.zip) que contiene un archivo.tex que al abrir por cualquier compilador de LaTeX permite ver el documento .pdf realizado.
+
 ## LICENCIA
 
 [Licencia **GNU General Public License v3.0**](https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/LICENSE)
