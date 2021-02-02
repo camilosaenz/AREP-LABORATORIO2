@@ -1,5 +1,5 @@
-## INTRODUCCIÓN A SISTEMAS COMPLEJOS JAVA, MAVEN Y GIT
-Este laboratorio tiene como objetivo implementar en Java un programa que permita calcular tanto la Media como la Desviación Estandar de un grupo de N números reales, estos estan almacenados en un archivo .txt.
+## INTRODUCCIÓN AL DISEÑO DE SISTEMAS DE COMPUTADORES
+Este laboratorio tiene como objetivo implementar en Java un programa que permita calcular tanto la Media como la Desviación Estandar de un grupo de N números reales, estos datos seran dados por cada usuario en la pagina de la aplicacion web de este laboratorio.
 Para la implementacion de estas operaciones se debera usar una LinkedList esta tiene como concepto utilizar una cabeza y unos nodos para poder recorrer la lista, la cabeza tiene un apuntador tanto al primer como al ultimo nodo y luego cada nodo apunto al nodo siguiente ya el ultimo nodo apunta directamente a null, pero es importante aclarar que la LinkedList no debe ser importada de ninguna librería, y el objetivo es implementar una para poder cumplir  con las operaciones especificadas.
 
 ## PRERREQUISITOS
@@ -7,6 +7,8 @@ Para la realización y Ejecución de este programa es necesario tener los siguie
 * Maven
 * GIT
 * Java
+* Heroku
+* CircleCI
 * Plataforma de Codigo (Eclise, NetBeans, etc...)
 
 ## INSTALACIÓN
@@ -15,7 +17,7 @@ Para poder descargar e instalar el laboratorio es necesario seguir los siguiente
 2. nos ubicamos en la carpeta donde se desea descargar el laboratorio.
 3. Para descargar el laboratorio utilizamos el siguiente comando desde nuestro Interprete de Comandos:
 ```
-git clone https://github.com/camilosaenz/AREP-LABORATORIO1
+git clone https://github.com/camilosaenz/AREP-LABORATORIO2
 ```
 4. Finalmente ya podemos abrir.
 
@@ -68,6 +70,18 @@ luego de ejecutar el comando y verificar el directorio, podemos abrir los difere
 
 <img src="https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/img/javadoc.PNG?raw=true">
 
+## HEROKU
+
+A continuación se podra ver la aplicación web del laboratorio correr desde Heroku con el siguiente link.
+
+[Calculadora Media y Desviación Estandar](https://calculator-arep-rcsr.herokuapp.com/)
+
+## CIRCLECI
+
+Esta aplicación cuenta con todas las restriciones de CircleCI.
+
+ [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/camilosaenz/AREP-LABORATORIO2)
+
 ## DESARROLO
 
 Este laboratorio fue construido con las siguiente herramientas:
@@ -75,6 +89,8 @@ Este laboratorio fue construido con las siguiente herramientas:
 * [Java](https://www.java.com/es/)
 * [GIT](https://git-scm.com/)
 * [Eclipse](https://www.eclipse.org/)
+* [Heroku](https://www.heroku.com/)
+* [CircleCI](https://circleci.com/)
 
 ## LATEX
 
