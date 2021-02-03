@@ -94,7 +94,7 @@ Este laboratorio fue construido con las siguiente herramientas:
 
 ## LATEX
 
-Este proyecto cuenta con un [archivo](https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/AREP%20-%20LABORATORIO1.pdf) realizado completamente utilizando LaTeX por medio de la aplicacion [Overleaf](https://www.overleaf.com/project) y ademas cuenta con el [Proyecto.zip](https://github.com/camilosaenz/AREP-LABORATORIO1/blob/master/AREP%20-%20LABORATORIO1%20-%20LATEX.zip) que contiene un archivo.tex que al abrir por cualquier compilador de LaTeX permite ver el documento .pdf realizado.
+Este proyecto cuenta con un [archivo](https://github.com/camilosaenz/AREP-LABORATORIO2/blob/master/AREP%20-%20LABORATORIO2.pdf) realizado completamente utilizando LaTeX por medio de la aplicacion [Overleaf](https://www.overleaf.com/project) y ademas cuenta con el [Proyecto.zip](https://github.com/camilosaenz/AREP-LABORATORIO2/blob/master/AREP%20-%20LABORATORIO2%20-%20LATEX.zip) que contiene un archivo.tex que al abrir por cualquier compilador de LaTeX permite ver el documento .pdf realizado.
 
 ## LICENCIA
 
