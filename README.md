@@ -76,11 +76,23 @@ A continuación se podra ver la aplicación web del laboratorio correr desde Her
 
 [Calculadora Media y Desviación Estandar](https://calculator-arep-rcsr.herokuapp.com/)
 
+Al abrir la aplicación web nos aparecera lo siguiente, y nos pedira que digitemos los números que queremos evaluar separados por comas.
+
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO2/blob/master/img/inicioCalculadora.PNG?raw=true">
+
+Luego al dar en ***Calcular Media y Desviacion Estandar*** nos abrira una siguiente pagina con los resultados del conjunto de números.
+
+<img src="https://github.com/camilosaenz/AREP-LABORATORIO2/blob/master/img/resultados.PNG?raw=true">
+
 ## CIRCLECI
 
 Esta aplicación cuenta con todas las restriciones de CircleCI.
 
  [![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/camilosaenz/AREP-LABORATORIO2)
+ 
+ Se puede evidenciar esto:
+ 
+ <img src="https://github.com/camilosaenz/AREP-LABORATORIO2/blob/master/img/CircleCI.PNG?raw=true">
 
 ## DESARROLO
 
